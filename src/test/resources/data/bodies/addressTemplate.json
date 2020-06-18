@@ -1,0 +1,15 @@
+{
+  "address":{
+    "street":[
+      "${street}"
+    ],
+    "city":"${city}",
+    "region":"",
+    "country_id":"${countryId}",
+    "postcode":null,
+    "firstname":"${firstName}",
+    "lastname":"${lastName}",
+    "company":"",
+    "telephone":"${phoneNumber}"
+  }
+}

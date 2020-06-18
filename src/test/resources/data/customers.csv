@@ -1,0 +1,11 @@
+userEmail,firstName,lastName,street,city,countryId,phoneNumber
+user1@email.com,user1,tester1,123 Easy Street,London,GB,076263232424
+user2@email.com,user2,tester2,456 Medium Street,Birmingham,GB,077927862424
+user3@email.com,user3,tester3,789 Hard Street,Coventry,GB,077992325424
+user4@email.com,user4,tester4,234 Happy Street,Middlesborough,GB,07799123121
+user5@email.com,user5,tester5,246 Sad Street,Leeds,GB,0779912421
+user6@email.com,user6,tester6,489 Angry Street,Manchester,GB,07799212354
+user7@email.com,user7,tester7,435 Friendly Street,Oxford,GB,0779973453
+user8@email.com,user8,tester8,673 Mostly Street,Reading,GB,077991231253
+user9@email.com,user9,tester9,855 Summer Street,Cambridge,GB,0779932522
+user10@email.com,user10,tester10,843 Winter Street,Winchester,GB,0779923522

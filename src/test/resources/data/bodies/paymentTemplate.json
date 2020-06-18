@@ -1,0 +1,28 @@
+{
+  "cartId":"${cartId}",
+  "billingAddress":{
+    "countryId":"${countryId}",
+    "region":"",
+    "street":[
+      "${street}"
+    ],
+    "company":"",
+    "telephone":"${phoneNumber}",
+    "postcode":null,
+    "city":"${city}",
+    "firstname":"${firstName}",
+    "lastname":"${lastName}",
+    "saveInAddressBook":null
+  },
+  "paymentMethod":{
+    "method":"checkmo",
+    "po_number":null,
+    "additional_data":null,
+    "extension_attributes":{
+      "agreement_ids":[
+
+      ]
+    }
+  },
+  "email":"${userEmail}"
+}
